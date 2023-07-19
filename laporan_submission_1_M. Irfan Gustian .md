@@ -2,7 +2,7 @@
 
 ## Kelautan
 
-Kepiting merupakan salah satu komoditi laut yang memiliki nilai cukup tinggi, tingginya harga dari kepiting tidak lain disebabkan oleh permintaan pasar yang tinggi juga. Kepiting menjadi primadona bagi masyarakat dikarenakan rasanya yang enak. Oleh karena itulah bisnis peternakan kepiting menjadi peluang usaha yang cukup menjanjikan. 
+Kepiting merupakan salah satu komoditi laut yang memiliki nilai cukup tinggi, tingginya harga dari kepiting tidak lain disebabkan oleh permintaan pasar yang tinggi juga. Kepiting menjadi primadona bagi masyarakat dikarenakan rasanya yang enak. Oleh karena itulah bisnis peternakan kepiting menjadi peluang usaha yang cukup menjanjikan. /n
 Peternakan kepiting ini tentunya juga memiliki tantangan-tantangan tersendiri, salah satunya adalah dalam menentukan masa panen, masa panen ini menjadi salah satu hal penting perlu diperhatikan karena pertumbuhan kepiting akan melambat setelah melewati usia tertentu, sehingga penting untuk menentukan masa panen terbaik agar biaya peternakan menjadi efisien dan tentunya meningkatkan keuntungan. Pada project ini akan dibangun sebuah model yang mampu membantu pengguna untuk memprediksi umur kepiting berdasarkan dari fitur-fitur seperti berat, tinggi, jenis kelamin dan lain lain.
 
 ## Business Understanding
