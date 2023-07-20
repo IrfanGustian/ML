@@ -35,6 +35,9 @@ Data yang digunakan adalah data mengenai kepiting yang diambil dari website kagg
 - Shell Weiight : berat cangkang kepiting dalam ounces.
 - Age : Umur kepiting.
 
+![download](https://github.com/IrfanGustian/ML/assets/62733996/1a6c56c7-1884-4ee8-a566-1f655b7d4c76)
+
+
 ## Data Preparation
 Terdapat beberapa teknik yang digunakan di dalam proses data preparation ini. Yang pertama adala mengecek apakah terdapat nilai null di dalam dataset, dari 3893 baris data dan 9 kolom tidak terdapat data dengan nilai null sehingga tidak ada tindakan yang dilakukan untuk mengatasi nilai null.
 Selanjutnya adalah melihat apakah terdapat nilai 0 di dalam dataset yang digunakan, setelah dilakukan pengecekan didapatkan bahwa nilai min pada fitur height adalah 0, ini berarti terdapat nilai 0 pada fitur height yang perlu diperbaiki karena tinggi kepiting tidak mungkin 0. Baris yang terdapat nilai nol di drop.
